@@ -1,0 +1,27 @@
+<div id="navcontainer">
+<ul id="navlist">
+<li id="active"><a href="http://aprenderaprogramar.com">Inicio</a></li>
+<li><a href="http://aprenderaprogramar.com">Cursos</a></li>
+<li><a href="http://aprenderaprogramar.com">Libros</a></li>
+<li><a href="http://aprenderaprogramar.com">Divulgación</a></li>
+<li><a href="http://aprenderaprogramar.com">Humor</a></li>
+</ul>
+</div>
+
+
+
+------------------------------------------
+
+ #navlist { padding: 3px 0px;
+ font:  16px fantasy;
+}
+
+#navlist li { list-style: none; display: inline; margin-left:10px;}
+
+#navlist li a { padding: 3px 5em;
+border: 1px solid #778; border-bottom: none;
+background: #DDE; text-decoration: none; }
+
+#navlist li a:link { color: black; }
+#navlist li a:hover {color: red; }
+#navlist li a#current { background: #AAE; }

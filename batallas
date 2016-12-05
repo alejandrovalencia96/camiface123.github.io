@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="inicio.css">
+    <title>WORLD BBOY</title>
+    
+</head>
+
+<body>
+<h1> ¡Enterate de las ultimas noticias de Breakdance!</h1>
+<img src="bboy.png" id="principal">
+<div id="navcontainer">
+<ul id="navlist">
+<li id="active"><a href="inicio.html">Inicio</a></li>
+
+<div id="contenedor">
+<h1> BATALLAS </h1>
+<p>
+	Son enfrentamientos entre B-Boys (individuales, por parejas o crews, según se establezca). Para definir el ganador se califica el “Top Rocking o estilo” (Estilo de pies o de arriba), los “Footworks o potros” (Estilo de piso o abajo), los “Powermoves” (Movimientos potentes) y los “Freezes” (El BBoy se queda "congelado" en una determinada postura). Por otra parte se califica también la originalidad, escuchar la música o seguir el ritmo, los movimientos explosivos (es decir, movimientos con mucha energía), los movimientos de fundación (pasos básicos del baile, normalmente poco puntuado), la creatividad del movimiento y la fluidez con la que lo combines. EL break dance es uno de los más apasionante bailes en Latinoamérica </p>
+
+<h2>Movimientos del Breakdance</h2>
+<p>
+El bboying se compone básicamente por:Top Rocking: Todo el baile que se realiza de pie.Footwork: Es el Top Rocking en el suelo, (cuando se baja al piso para continuar con el baile).
+Freezes: Son los cortes en los que el Bboy se para (como congelado) en una postura, llamada freeze.
+Powermoves: Todos los movimientos mas gimnásticos, en los que se gira o se realizan transiciones aparentemente mas “poderosas o enérgicas”.
+Este conjunto forma el Breakdance con sus movimientos. Es un estilo de baile dificil de hacer pero practicable, se necesita mucha habilidad.
+</p>
+</div>
+</body>
+</html>
